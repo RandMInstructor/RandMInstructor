@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am currently an instructor at the U.S. Air Force Institute of Technology, where I am also conducting research as a PhD candidate. My research interests and current research efforts are focused on enhancing search and information discovery tasks. I am investigating the potential for advancements by developing and analyzing functional models of the defense intelligence search work domain to discover ecologically compatible information representations for new search-supporting systems. A related investigation within my current research is the development of new conceptual approaches to measuring semantic structures in knowledge representations (ambiguity among text segments and/or their embedded representations) within search systems (dense retrievers) and evaluating them as predictors of retrieval performance. These investigations incorporate Natural Language Processing, Machine Learning, and insights from Cognitive Systems Engineering into the current research approach aiming to address critical aspects and challenges of the information search problem.
+
 
 <!--
 **RandMInstructor/RandMInstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
